@@ -1,0 +1,64 @@
+开启历史后，完成的翻译会显示在这里。\n记录不会上传或同步。	Activez l’historique pour voir les traductions terminées ici.\nLes enregistrements ne sont jamais envoyés ni synchronisés.	Activa el historial para ver aquí las traducciones completadas.\nLos registros nunca se envían ni se sincronizan.	Ative o histórico para ver as traduções concluídas aqui.\nOs registros nunca são enviados nem sincronizados.	Attiva la cronologia per vedere qui le traduzioni completate.\nI dati non vengono mai inviati o sincronizzati.
+开源许可	Licences open source	Licencias de código abierto	Licenças de código aberto	Licenze open source
+开源软件与模型许可	Licences des logiciels et modèles	Licencias de software y modelos	Licenças de software e modelos	Licenze software e modelli
+快捷键冲突时会在启动后提示。截图权限只在你第一次截图时申请。	Les conflits de raccourcis sont signalés au démarrage. L’accès à l’écran n’est demandé qu’à la première capture.	Los conflictos de atajos se muestran al iniciar. El acceso a la pantalla se solicita al hacer la primera captura.	Conflitos de atalhos são informados ao iniciar. O acesso à tela só é solicitado na primeira captura.	I conflitti delle abbreviazioni vengono segnalati all’avvio. L’accesso allo schermo viene richiesto solo alla prima cattura.
+截图识别并翻译	Reconnaître et traduire le texte à l’écran	Reconocer y traducir texto en pantalla	Reconhecer e traduzir texto na tela	Riconosci e traduci testo sullo schermo
+打开主窗口	Ouvrir la fenêtre principale	Abrir ventana principal	Abrir janela principal	Apri finestra principale
+把世界，读成自己的语言。	Lisez le monde dans votre langue.	Lee el mundo en tu idioma.	Leia o mundo no seu idioma.	Leggi il mondo nella tua lingua.
+把翻译装进你的 Mac	Installez la traduction sur votre Mac	Lleva la traducción a tu Mac	Leve a tradução para seu Mac	Porta la traduzione sul tuo Mac
+推荐自动识别。短词或多义词可手动指定原文语言，主窗口也可随时调整。	La détection automatique est recommandée. Pour les mots courts ou ambigus, choisissez la langue source. Vous pouvez aussi la modifier dans la fenêtre principale.	Se recomienda la detección automática. Para palabras cortas o ambiguas, elige el idioma de origen. También puedes cambiarlo en la ventana principal.	A detecção automática é recomendada. Para palavras curtas ou ambíguas, escolha o idioma de origem. Você também pode alterá-lo na janela principal.	È consigliato il rilevamento automatico. Per parole brevi o ambigue, scegli la lingua di origine. Puoi cambiarla anche nella finestra principale.
+文字与截图只在你的 Mac 处理。\n下载模型后，无需联网。	Textes et captures sont traités sur votre Mac.\nUne fois le modèle téléchargé, aucune connexion n’est nécessaire.	El texto y las capturas se procesan en tu Mac.\nTras descargar un modelo, no necesitas conexión.	Textos e capturas são processados no seu Mac.\nApós baixar um modelo, não é preciso conexão.	Testi e catture vengono elaborati sul tuo Mac.\nDopo aver scaricato un modello, non serve connessione.
+无需登录，没有广告或使用追踪。模型下载需要联网；原文、译文与截图只在本机处理。历史记录默认关闭。	Sans compte, publicité ni suivi d’utilisation. Le téléchargement des modèles nécessite une connexion. Textes, traductions et captures sont traités localement. L’historique est désactivé par défaut.	Sin cuenta, anuncios ni seguimiento de uso. La descarga de modelos requiere conexión. El texto, las traducciones y las capturas se procesan localmente. El historial está desactivado por defecto.	Sem conta, anúncios ou rastreamento de uso. O download de modelos precisa de conexão. Textos, traduções e capturas são processados localmente. O histórico vem desativado.	Senza account, pubblicità o tracciamento dell’uso. Il download dei modelli richiede una connessione. Testi, traduzioni e catture vengono elaborati localmente. La cronologia è disattivata per impostazione predefinita.
+最多 200 条术语；原词限 80 字符，译法限 120 字符。	Jusqu’à 200 termes. Maximum 80 caractères pour le terme source et 120 pour sa traduction.	Hasta 200 términos. Máximo 80 caracteres para el término original y 120 para su traducción.	Até 200 termos. Máximo de 80 caracteres para o termo original e 120 para a tradução.	Fino a 200 termini. Massimo 80 caratteri per il termine originale e 120 per la traduzione.
+期望译法，例如：工作空间	Traduction souhaitée, ex. espace de travail	Traducción preferida, p. ej. espacio de trabajo	Tradução preferida, ex.: espaço de trabalho	Traduzione preferita, es. area di lavoro
+本地处理	Traitement sur l’appareil	Procesamiento local	Processamento no dispositivo	Elaborazione sul dispositivo
+本地翻译	Traduction locale	Traducción local	Tradução local	Traduzione locale
+查看官方模型与许可 ↗	Modèles et licences officiels ↗	Modelos y licencias oficiales ↗	Modelos e licenças oficiais ↗	Modelli e licenze ufficiali ↗
+模型与内存	Modèles et mémoire	Modelos y memoria	Modelos e memória	Modelli e memoria
+模型保温时间	Garder le modèle chargé	Mantener modelo cargado	Manter modelo carregado	Mantieni modello caricato
+模型导入完成	Modèle importé	Modelo importado	Modelo importado	Modello importato
+正在使用	En cours d’utilisation	En uso	Em uso	In uso
+正在准备…	Préparation…	Preparando…	Preparando…	Preparazione…
+正在本机翻译…	Traduction sur votre Mac…	Traduciendo en tu Mac…	Traduzindo no seu Mac…	Traduzione sul tuo Mac…
+添加	Ajouter	Añadir	Adicionar	Aggiungi
+清空	Effacer	Borrar	Limpar	Cancella
+清空后无法恢复，当前编辑区的文字不受影响。	Cette action est irréversible. Le texte dans l’éditeur actuel sera conservé.	Esta acción no se puede deshacer. El texto del editor actual no se verá afectado.	Esta ação não pode ser desfeita. O texto do editor atual não será afetado.	L’operazione non può essere annullata. Il testo nell’editor attuale non sarà modificato.
+清空所有翻译历史？	Effacer tout l’historique des traductions ?	¿Borrar todo el historial de traducciones?	Limpar todo o histórico de traduções?	Cancellare tutta la cronologia delle traduzioni?
+清空记录	Effacer l’historique	Borrar historial	Limpar histórico	Cancella cronologia
+版本 %@	Version %@	Versión %@	Versão %@	Versione %@
+版本 %@ (%@)	Version %@ (%@)	Versión %@ (%@)	Versão %@ (%@)	Versione %@ (%@)
+界面语言	Langue de l’interface	Idioma de la interfaz	Idioma da interface	Lingua dell’interfaccia
+留住值得再读的一句	Gardez un texte à relire	Conserva un texto que merezca releerse	Guarde um texto que vale reler	Conserva un testo da rileggere
+目标语言	Langue cible	Idioma de destino	Idioma de destino	Lingua di destinazione
+知道了	Compris	Entendido	Entendi	Ho capito
+立即释放模型内存	Libérer la mémoire du modèle	Liberar memoria del modelo	Liberar memória do modelo	Libera memoria del modello
+粘贴文字	Coller du texte	Pegar texto	Colar texto	Incolla testo
+精选主题	Thèmes	Temas	Temas	Temi
+组件	Composant	Componente	Componente	Componente
+翻译习惯	Préférences de traduction	Preferencias de traducción	Preferências de tradução	Preferenze di traduzione
+翻译剪贴板文字	Traduire le texte du presse-papiers	Traducir texto del portapapeles	Traduzir texto da área de transferência	Traduci il testo degli appunti
+翻译方向	Sens de traduction	Dirección de traducción	Direção da tradução	Direzione di traduzione
+翻译时不联网，不需要账号或 API Key。	La traduction fonctionne hors ligne. Aucun compte ni clé API nécessaire.	La traducción funciona sin conexión. No necesitas cuenta ni clave API.	A tradução funciona offline. Não precisa de conta nem chave de API.	La traduzione funziona offline. Non servono account o chiavi API.
+翻译选中的文字	Traduire le texte sélectionné	Traducir texto seleccionado	Traduzir texto selecionado	Traduci testo selezionato
+联系支持 ↗	Contacter l’assistance ↗	Contactar con soporte ↗	Falar com o suporte ↗	Contatta l’assistenza ↗
+让 HaHa 按你的习惯工作。	Adaptez HaHa à vos habitudes.	Haz que HaHa se adapte a ti.	Deixe o HaHa do seu jeito.	Adatta HaHa alle tue abitudini.
+让理解，轻松发生。	Comprendre, tout simplement.	Entender es sencillo.	Entender ficou simples.	Capire, con semplicità.
+许可文件未找到，请联系 sapplex@icloud.com。	Fichier de licence introuvable. Contactez sapplex@icloud.com.	No se encontró el archivo de licencia. Contacta con sapplex@icloud.com.	Arquivo de licença não encontrado. Entre em contato: sapplex@icloud.com.	File di licenza non trovato. Contatta sapplex@icloud.com.
+译文	Traduction	Traducción	Tradução	Traduzione
+译文会出现在这里	Votre traduction apparaîtra ici	Tu traducción aparecerá aquí	Sua tradução aparecerá aqui	La traduzione apparirà qui
+试一段文字	Essayer un exemple	Probar un ejemplo	Testar um exemplo	Prova un esempio
+语言 A	Langue A	Idioma A	Idioma A	Lingua A
+语言 B	Langue B	Idioma B	Idioma B	Lingua B
+请选择官方 %@。导入时会核验大小和 SHA-256。	Choisissez le fichier officiel %@. Sa taille et son SHA-256 seront vérifiés à l’importation.	Elige el archivo oficial %@. Su tamaño y SHA-256 se verificarán al importarlo.	Escolha o arquivo oficial %@. O tamanho e o SHA-256 serão verificados na importação.	Scegli il file ufficiale %@. Dimensione e SHA-256 verranno verificati durante l’importazione.
+读懂，就这么简单	Comprendre, tout simplement	Entender es sencillo	Entender ficou simples	Capire, con semplicità
+调整	Ajuster	Ajustar	Ajustar	Regola
+轻装上阵	Voyagez léger	Viaja ligero	Viaje leve	Viaggia leggero
+连续翻译可复用已加载的模型。超过保温时间后自动释放，下次翻译会重新加载。	Les traductions successives réutilisent le modèle chargé. Sa mémoire est libérée après la période d’inactivité. Il sera rechargé à la prochaine traduction.	Las traducciones consecutivas reutilizan el modelo cargado. La memoria se libera tras el periodo de inactividad. La siguiente traducción lo cargará de nuevo.	Traduções consecutivas reutilizam o modelo carregado. A memória é liberada após o período de inatividade. A próxima tradução o recarrega.	Le traduzioni consecutive riutilizzano il modello caricato. La memoria viene liberata dopo il periodo di inattività. La traduzione successiva lo ricarica.
+适用于支持文本服务的应用。如果没有此入口，可在系统设置 → 键盘 → 键盘快捷键 → 服务中启用并设置快捷键；也可以先复制文字，再按 ⌥D。	Fonctionne dans les apps qui prennent en charge les services de texte. Si l’entrée manque, activez-la et attribuez un raccourci dans Réglages Système → Clavier → Raccourcis clavier → Services. Vous pouvez aussi copier le texte puis appuyer sur ⌥D.	Funciona en apps compatibles con servicios de texto. Si no aparece, actívalo y asigna un atajo en Ajustes del Sistema → Teclado → Funciones rápidas de teclado → Servicios. También puedes copiar el texto y pulsar ⌥D.	Funciona em apps compatíveis com serviços de texto. Se a opção não aparecer, ative-a e defina um atalho em Ajustes do Sistema → Teclado → Atalhos de Teclado → Serviços. Você também pode copiar o texto e pressionar ⌥D.	Funziona nelle app che supportano i servizi di testo. Se la voce manca, attivala e assegna un’abbreviazione in Impostazioni di Sistema → Tastiera → Abbreviazioni da tastiera → Servizi. Puoi anche copiare il testo e premere ⌥D.
+选中文字后，在当前应用的「服务」菜单中选择「使用HaHa翻译」；部分应用也会在右键菜单显示「服务」。	Sélectionnez du texte, puis choisissez Traduire avec HaHa dans le menu Services de l’app. Certaines apps affichent aussi Services dans le menu contextuel.	Selecciona texto y elige Traducir con HaHa en el menú Servicios de la app actual. Algunas apps también muestran Servicios en el menú contextual.	Selecione o texto e escolha Traduzir com HaHa no menu Serviços do app atual. Alguns apps também mostram Serviços no menu de contexto.	Seleziona il testo, poi scegli Traduci con HaHa dal menu Servizi dell’app attuale. Alcune app mostrano Servizi anche nel menu contestuale.
+隐私与支持	Confidentialité et assistance	Privacidad y soporte	Privacidade e suporte	Privacy e assistenza
+隐私说明	Confidentialité	Privacidad	Privacidade	Privacy
+顺手的快捷方式	Raccourcis pratiques	Atajos prácticos	Atalhos úteis	Abbreviazioni utili
+首次下载轻量模型后，即可离线使用。你也可以导入已有模型。	Téléchargez le modèle léger une fois pour traduire hors ligne, ou importez un modèle que vous possédez déjà.	Descarga el modelo ligero una vez para traducir sin conexión, o importa uno que ya tengas.	Baixe o modelo leve uma vez para traduzir offline, ou importe um modelo que já tenha.	Scarica una volta il modello leggero per tradurre offline, oppure importa un modello che hai già.
+默认不保存。开启后，最多保存 100 条在本机；关闭后停止新增，已有记录可手动清空。	Désactivé par défaut. Une fois activé, jusqu’à 100 entrées sont enregistrées localement. Le désactiver arrête les nouveaux enregistrements ; l’historique existant peut être effacé manuellement.	Desactivado por defecto. Al activarlo, se guardan hasta 100 registros localmente. Al desactivarlo, no se añaden registros nuevos; puedes borrar el historial existente manualmente.	Desativado por padrão. Quando ativado, até 100 registros são salvos localmente. Ao desativar, novos registros deixam de ser salvos; o histórico existente pode ser limpo manualmente.	Disattivata per impostazione predefinita. Se attiva, salva fino a 100 voci localmente. Disattivarla interrompe i nuovi salvataggi; puoi cancellare la cronologia esistente manualmente.
+默认推荐	Recommandé	Recomendado	Recomendado	Consigliato

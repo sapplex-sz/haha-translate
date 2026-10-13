@@ -1,0 +1,45 @@
+name: HaHaTranslate
+options:
+  bundleIdPrefix: com.sapplex
+  deploymentTarget:
+    macOS: '15.0'
+  xcodeVersion: '27.0'
+settings:
+  base:
+    SWIFT_VERSION: '5.0'
+    MACOSX_DEPLOYMENT_TARGET: '15.0'
+    ARCHS: arm64
+    ENABLE_HARDENED_RUNTIME: YES
+    MARKETING_VERSION: '1.0.0'
+    CURRENT_PROJECT_VERSION: '9'
+    DEVELOPMENT_TEAM: 8D9AHY5YW8
+    CODE_SIGN_STYLE: Manual
+    CODE_SIGN_IDENTITY: '-'
+    SWIFT_STRICT_CONCURRENCY: targeted
+    ENABLE_DEBUG_DYLIB: NO
+targets:
+  HaHaTranslate:
+    type: application
+    platform: macOS
+    sources:
+      - Sources
+      - path: Resources
+        buildPhase: resources
+    dependencies:
+      - framework: Runtime/CHaHaRuntime.xcframework
+        embed: false
+    settings:
+      configs:
+        Debug:
+          PRODUCT_BUNDLE_IDENTIFIER: com.sapplex.hahatranslate.debug
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.sapplex.hahatranslate
+        PRODUCT_NAME: HaHa翻译
+        INFOPLIST_FILE: Config/Info.plist
+        CODE_SIGN_ENTITLEMENTS: Config/HaHaTranslate.entitlements
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        LD_RUNPATH_SEARCH_PATHS: $(inherited) @executable_path/../Frameworks
+        OTHER_LDFLAGS: $(inherited) -lc++ -framework Accelerate
+    scheme:
+      testTargets: []
+      gatherCoverageData: false

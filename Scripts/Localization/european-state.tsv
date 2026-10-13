@@ -1,0 +1,32 @@
+一次最多翻译 12,000 个字符，请分次粘贴。原文已保留。	Vous pouvez traduire 12 000 caractères à la fois. Collez le texte en plusieurs parties. Le texte source a été conservé.	Puedes traducir hasta 12.000 caracteres a la vez. Pega el texto en partes más pequeñas. Se conservó el original.	Traduza até 12.000 caracteres por vez. Cole o texto em partes menores. O texto original foi mantido.	Puoi tradurre fino a 12.000 caratteri alla volta. Incolla il testo in parti più piccole. Il testo originale è stato conservato.
+先下载一个离线模型，即可开始翻译。	Téléchargez un modèle hors ligne pour commencer à traduire.	Descarga un modelo sin conexión para empezar a traducir.	Baixe um modelo offline para começar a traduzir.	Scarica un modello offline per iniziare a tradurre.
+准备好，读懂下一段。	Prêt pour votre prochain texte.	Listo para tu próximo texto.	Pronto para seu próximo texto.	Pronto per il prossimo testo.
+剪贴板里没有文字。复制一段文字后再试。	Le presse-papiers ne contient pas de texte. Copiez un texte et réessayez.	No hay texto en el portapapeles. Copia un texto e inténtalo de nuevo.	Não há texto na área de transferência. Copie um texto e tente novamente.	Nessun testo negli appunti. Copia del testo e riprova.
+历史记录	Historique	Historial	Histórico	Cronologia
+历史译文 · 保存在本机	Historique des traductions · Enregistré localement	Historial de traducciones · Guardado localmente	Histórico de traduções · Salvo localmente	Cronologia traduzioni · Salvata localmente
+原文已更新，可以开始翻译。	Texte source mis à jour. Prêt à traduire.	Original actualizado. Listo para traducir.	Texto original atualizado. Pronto para traduzir.	Testo originale aggiornato. Pronto per tradurre.
+已交换原文与译文，可重新翻译。	Texte source et traduction inversés. Prêt à traduire à nouveau.	Original y traducción intercambiados. Listo para traducir de nuevo.	Original e tradução invertidos. Pronto para traduzir novamente.	Originale e traduzione scambiati. Pronto per tradurre di nuovo.
+已停止，保留当前译文。	Arrêté. La traduction actuelle a été conservée.	Detenido. Se conservó la traducción actual.	Parado. A tradução atual foi mantida.	Interrotto. La traduzione attuale è stata conservata.
+我的术语	Glossaire	Glosario	Glossário	Glossario
+无法清除历史记录：%@	Impossible d’effacer l’historique : %@	No se pudo borrar el historial: %@	Não foi possível limpar o histórico: %@	Impossibile cancellare la cronologia: %@
+暖橘	Orange chaud	Naranja cálido	Laranja quente	Arancio caldo
+本地保存失败：%@	Impossible d’enregistrer localement : %@	No se pudo guardar localmente: %@	Não foi possível salvar localmente: %@	Impossibile salvare localmente: %@
+本次翻译未完成	Traduction incomplète	Traducción incompleta	Tradução incompleta	Traduzione incompleta
+松绿	Vert pin	Verde pino	Verde pinheiro	Verde pino
+模型已释放，下次使用时自动加载。	Mémoire du modèle libérée. Il sera rechargé au prochain usage.	Memoria del modelo liberada. Se cargará de nuevo cuando sea necesario.	Memória do modelo liberada. Ele será recarregado quando necessário.	Memoria del modello liberata. Verrà ricaricato quando serve.
+正在停止…	Arrêt en cours…	Deteniendo…	Parando…	Interruzione…
+正在准备本地模型…	Préparation du modèle local…	Preparando el modelo local…	Preparando o modelo local…	Preparazione del modello locale…
+正在处理当前任务，请稍后再试。	Une tâche est en cours. Réessayez dans un instant.	Hay una tarea en curso. Vuelve a intentarlo en breve.	Uma tarefa está em andamento. Tente novamente em instantes.	È in corso un’attività. Riprova tra poco.
+正在翻译 · 全程本机	Traduction · Entièrement sur votre Mac	Traduciendo · Todo en tu Mac	Traduzindo · Tudo no seu Mac	Traduzione · Tutto sul tuo Mac
+正在翻译第 %d / %d 段 · 全程本机	Traduction du paragraphe %d sur %d · Sur votre Mac	Traduciendo párrafo %d de %d · Todo en tu Mac	Traduzindo parágrafo %d de %d · No seu Mac	Traduzione paragrafo %d di %d · Sul tuo Mac
+正在释放模型，请稍后再试。	Libération de la mémoire du modèle. Réessayez dans un instant.	Liberando la memoria del modelo. Vuelve a intentarlo en breve.	Liberando a memória do modelo. Tente novamente em instantes.	Liberazione della memoria del modello. Riprova tra poco.
+海蓝	Bleu océan	Azul océano	Azul oceano	Blu oceano
+玫瑰	Rose	Rosa	Rosa	Rosa
+石墨	Graphite	Grafito	Grafite	Grafite
+离线模型	Modèles hors ligne	Modelos sin conexión	Modelos offline	Modelli offline
+翻译完成 · 内容未离开你的 Mac	Traduction terminée · Votre texte est resté sur votre Mac	Traducción completada · El texto no salió de tu Mac	Tradução concluída · Seu texto ficou no seu Mac	Traduzione completata · Il testo è rimasto sul tuo Mac
+设置	Réglages	Ajustes	Ajustes	Impostazioni
+译文已复制	Traduction copiée	Traducción copiada	Tradução copiada	Traduzione copiata
+译文已复制，按 ⌘V 粘贴。	Traduction copiée. Appuyez sur ⌘V pour coller.	Traducción copiada. Pulsa ⌘V para pegar.	Tradução copiada. Pressione ⌘V para colar.	Traduzione copiata. Premi ⌘V per incollare.
+请核对译文中的数字：%@	Vérifiez ces nombres dans la traduction : %@	Revisa estos números en la traducción: %@	Verifique estes números na tradução: %@	Controlla questi numeri nella traduzione: %@
+鸢紫	Violet iris	Violeta iris	Roxo íris	Viola iris

@@ -1,0 +1,60 @@
+%.1f 秒	%.1f s	%.1f s	%.1f s	%.1f s
+%@ 与 %@ 自动互译；遇到其他语言或无法识别时，默认译为 %@。	Traduction automatique entre %@ et %@. Les autres langues ou les langues non reconnues sont traduites en %@.	Traduce automáticamente entre %@ y %@. Los demás idiomas, o los no reconocidos, se traducen a %@.	Traduza automaticamente entre %@ e %@. Outros idiomas, ou idiomas não reconhecidos, são traduzidos para %@.	Traduci automaticamente tra %@ e %@. Le altre lingue o quelle non riconosciute vengono tradotte in %@.
+%d / 12,000	%d / 12 000	%d / 12.000	%d / 12.000	%d / 12.000
+%d%%	%d%%	%d%%	%d%%	%d%%
+1 分钟 · 更省内存	1 minute · Moins de mémoire	1 minuto · Menos memoria	1 minuto · Menos memória	1 minuto · Meno memoria
+10 分钟 · 连续阅读	10 minutes · Lecture prolongée	10 minutos · Lectura continua	10 minutos · Leitura contínua	10 minuti · Lettura prolungata
+3 分钟 · 均衡	3 minutes · Équilibré	3 minutos · Equilibrado	3 minutos · Equilibrado	3 minuti · Equilibrato
+一段文字，一扇通往新世界的窗。	Un texte, une fenêtre sur un nouveau monde.	Un texto, una ventana a un mundo nuevo.	Um texto, uma janela para um novo mundo.	Un testo, una finestra su un nuovo mondo.
+下载一次，把翻译能力留在你的 Mac。	Téléchargez une fois. Gardez la traduction sur votre Mac.	Descarga una vez. Conserva la traducción en tu Mac.	Baixe uma vez. Mantenha a tradução no seu Mac.	Scarica una volta. La traduzione resta sul tuo Mac.
+下载模型	Télécharger le modèle	Descargar modelo	Baixar modelo	Scarica modello
+不同原文语言都译为同一个目标语言。	Traduisez toutes les langues source vers une seule langue cible.	Traduce todos los idiomas de origen a un mismo idioma de destino.	Traduza todos os idiomas de origem para um único idioma de destino.	Traduci tutte le lingue di origine in un’unica lingua di destinazione.
+两种模型均来自腾讯 Hy-MT2，使用 Apache 2.0 许可。下载自官方 Hugging Face 仓库并校验文件完整性。模型大小不等于运行内存；标准模型使用更多磁盘与内存，译文仍需结合上下文核对。	Les deux modèles proviennent de Tencent Hy-MT2, sous licence Apache 2.0. Ils sont téléchargés depuis les dépôts officiels Hugging Face et leur intégrité est vérifiée. La taille du fichier diffère de la mémoire utilisée. Le modèle standard demande plus d’espace et de mémoire. Vérifiez toujours la traduction dans son contexte.	Ambos modelos son de Tencent Hy-MT2, con licencia Apache 2.0. Se descargan de los repositorios oficiales de Hugging Face y se verifica su integridad. El tamaño del archivo no equivale al uso de memoria. El modelo estándar requiere más espacio y memoria. Revisa la traducción en su contexto.	Os dois modelos são do Tencent Hy-MT2, sob a licença Apache 2.0. Eles vêm dos repositórios oficiais do Hugging Face e passam por verificação de integridade. O tamanho do arquivo não é o mesmo que o uso de memória. O modelo padrão requer mais espaço e memória. Revise a tradução no contexto.	Entrambi i modelli provengono da Tencent Hy-MT2, con licenza Apache 2.0. Vengono scaricati dai repository ufficiali Hugging Face e ne viene verificata l’integrità. La dimensione del file non equivale alla memoria usata. Il modello standard richiede più spazio e memoria. Verifica le traduzioni nel loro contesto.
+为产品名、专业术语指定译法，\n让每次阅读更连贯。	Définissez vos traductions pour les noms de produits et les termes\npour une lecture cohérente.	Define traducciones para nombres de productos y términos\npara mantener la coherencia al leer.	Defina traduções para nomes de produtos e termos\npara manter a consistência na leitura.	Definisci le traduzioni di nomi di prodotti e termini\nper una lettura coerente.
+为熟悉的名字，提供你偏好的译法。	Donnez aux noms familiers vos traductions préférées.	Usa tus traducciones preferidas para los nombres habituales.	Use suas traduções preferidas para os nomes conhecidos.	Dai ai nomi familiari le traduzioni che preferisci.
+主题随系统自动适配浅色与深色外观。	Les thèmes suivent l’apparence claire ou sombre du système.	Los temas se adaptan al aspecto claro u oscuro del sistema.	Os temas acompanham a aparência clara ou escura do sistema.	I temi seguono l’aspetto chiaro o scuro del sistema.
+也可以在任意应用复制文字，\n按 ⌥D，随手翻译。	Ou copiez du texte dans une autre app\net appuyez sur ⌥D pour traduire.	O copia texto en otra app\ny pulsa ⌥D para traducir.	Ou copie texto em outro app\ne pressione ⌥D para traduzir.	Oppure copia del testo in un’altra app\ne premi ⌥D per tradurre.
+交换语言与原译文	Inverser les langues et les textes	Intercambiar idiomas y textos	Inverter idiomas e textos	Scambia lingue e testi
+仅匹配原文中的词条，并把期望译法提供给模型。适合产品名称和常用术语，译文仍可按上下文核对。	Les termes présents dans le texte sont transmis au modèle avec vos traductions préférées. Utile pour les noms de produits et les termes courants. Vérifiez le résultat dans son contexte.	Los términos coincidentes se pasan al modelo con tus traducciones preferidas. Útil para nombres de productos y términos habituales. Revisa el resultado en su contexto.	Os termos encontrados no original são enviados ao modelo com suas traduções preferidas. Útil para nomes de produtos e termos comuns. Revise o resultado no contexto.	I termini presenti nel testo vengono passati al modello con le traduzioni preferite. Utile per nomi di prodotti e termini comuni. Verifica il risultato nel suo contesto.
+仅改变应用界面的语言，不影响原文与译文。	Modifie uniquement la langue de l’interface, pas votre texte ni sa traduction.	Solo cambia el idioma de la interfaz, no el texto original ni su traducción.	Altera apenas o idioma da interface, não o original nem a tradução.	Cambia solo la lingua dell’interfaccia, non il testo originale o la traduzione.
+从容进阶	Pour aller plus loin	Un paso más allá	Para ir além	Un passo in più
+你的文字，只属于你。	Vos mots restent les vôtres.	Tus palabras son tuyas.	Suas palavras são suas.	Le tue parole restano tue.
+你的词，你的译法	Vos mots, vos termes	Tus palabras, tus términos	Suas palavras, seus termos	Le tue parole, i tuoi termini
+使用这个模型	Utiliser ce modèle	Usar este modelo	Usar este modelo	Usa questo modello
+保存翻译历史	Enregistrer l’historique	Guardar historial de traducciones	Salvar histórico de traduções	Salva cronologia traduzioni
+停止	Arrêter	Detener	Parar	Interrompi
+停止翻译	Arrêter la traduction	Detener traducción	Parar tradução	Interrompi traduzione
+关于模型	À propos des modèles	Acerca de los modelos	Sobre os modelos	Informazioni sui modelli
+关闭快捷浮窗	Fermer le panneau de traduction	Cerrar panel de traducción	Fechar painel de tradução	Chiudi pannello di traduzione
+关闭提示	Fermer le message	Cerrar mensaje	Fechar mensagem	Chiudi messaggio
+关闭浮窗	Fermer le panneau	Cerrar panel	Fechar painel	Chiudi pannello
+准备离线翻译	Configurer la traduction hors ligne	Preparar traducción sin conexión	Preparar tradução offline	Prepara traduzione offline
+删除	Supprimer	Eliminar	Excluir	Elimina
+删除模型	Supprimer le modèle	Eliminar modelo	Excluir modelo	Elimina modello
+删除词条	Supprimer le terme	Eliminar término	Excluir termo	Elimina termine
+删除这个离线模型？	Supprimer ce modèle hors ligne ?	¿Eliminar este modelo sin conexión?	Excluir este modelo offline?	Eliminare questo modello offline?
+原文	Source	Original	Original	Originale
+原文语言	Langue source	Idioma de origen	Idioma de origem	Lingua di origine
+原词，例如：workspace	Terme source, ex. workspace	Término original, p. ej. workspace	Termo original, ex.: workspace	Termine originale, es. workspace
+双向语言对	Paire de langues	Par de idiomas	Par de idiomas	Coppia di lingue
+双向：%@ ↔ %@	Bidirectionnel : %@ ↔ %@	Bidireccional: %@ ↔ %@	Bidirecional: %@ ↔ %@	Bidirezionale: %@ ↔ %@
+取消	Annuler	Cancelar	Cancelar	Annulla
+只删除所选模型文件。之后可以重新下载，你的术语表不会受影响。	Seul le modèle sélectionné sera supprimé. Vous pourrez le télécharger à nouveau. Votre glossaire sera conservé.	Solo se eliminará el modelo seleccionado. Puedes descargarlo de nuevo más tarde. El glosario no se verá afectado.	Apenas o modelo selecionado será excluído. Você poderá baixá-lo novamente. Seu glossário não será afetado.	Verrà eliminato solo il modello selezionato. Potrai scaricarlo di nuovo. Il glossario non sarà modificato.
+只在本机处理	Traité sur ce Mac	Procesado en este Mac	Processado neste Mac	Elaborato su questo Mac
+回看读过的内容，记录只属于你。	Retrouvez vos lectures. Votre historique reste privé.	Vuelve a lo que has leído. El historial es solo tuyo.	Releia o que já viu. Seu histórico é só seu.	Ritrova ciò che hai letto. La cronologia resta tua.
+固定浮窗	Épingler le panneau	Fijar panel	Fixar painel	Fissa pannello
+固定目标语言	Langue cible fixe	Idioma de destino fijo	Idioma de destino fixo	Lingua di destinazione fissa
+在主窗口翻译	Traduire dans la fenêtre principale	Traducir en la ventana principal	Traduzir na janela principal	Traduci nella finestra principale
+在这里输入，或粘贴一段文字…	Saisissez ou collez du texte ici…	Escribe o pega un texto aquí…	Digite ou cole um texto aqui…	Scrivi o incolla un testo qui…
+复制并返回	Copier et revenir	Copiar y volver	Copiar e voltar	Copia e torna
+外观与语言	Apparence et langue	Aspecto e idioma	Aparência e idioma	Aspetto e lingua
+好译文，正在路上。	Votre traduction arrive.	Tu traducción está en camino.	Sua tradução está a caminho.	La traduzione sta arrivando.
+安心，留在本机	Bien au chaud sur votre Mac	Como en casa, en tu Mac	Em casa no seu Mac	Al sicuro sul tuo Mac
+完成	Terminé	Listo	Concluído	Fine
+导入 %@	Importer %@	Importar %@	Importar %@	Importa %@
+导入文件	Importer un fichier	Importar archivo	Importar arquivo	Importa file
+尚未下载模型	Aucun modèle téléchargé	Ningún modelo descargado	Nenhum modelo baixado	Nessun modello scaricato
+工作空间	Espace de travail	Espacio de trabajo	Espaço de trabalho	Area di lavoro
+已下载	Téléchargé	Descargado	Baixado	Scaricato
+已切换模型	Modèle changé	Modelo cambiado	Modelo alterado	Modello cambiato
+已启用	Actif	Activo	Ativo	Attivo
